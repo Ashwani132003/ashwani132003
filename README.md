@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Siwach</h1>
-<h3 align="center">A passionate ML/DL Engineer from India</h3>
+<h3 align="center">Learning Signal + Image Processing + Machine + Deep Learning + Computation Biology, etc., currently pursuing a Master's in Signal Processing from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani132003&label=Profile%20views&color=0e75b6&style=flat" alt="ashwani132003" /> </p>
 
@@ -11,9 +11,6 @@
 
 - 💬 Ask me about **Python, Machine Learning**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/12otRB4I3UQX0ah17EWxEGRjPC-hm116GjueWpWpG0rU/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I'm super cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
